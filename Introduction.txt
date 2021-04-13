@@ -1,7 +1,7 @@
 ENG// 13/04/2021 
 
 This project comes from the necessity of a good law and policies interpretation.
-New laws and policies come up all the time, and are not exaclty understandable, between the average you & me, to be more precise, the you & me who have never studied or worked with
+New laws and policies come up all the time, and are not exactly understandable, between the average you & me, to be more precise, the you & me who have never studied or worked with
 anything related to law before.
 I have been feeling the need for a project like this to happen, for a long time. 
 The key factor in this project is to create an open source web application, which reads, in this particular case the portuguese law and policies, from 
