@@ -7,7 +7,7 @@ anything related to law before.
 I have been feeling the need for a project like this to happen, for a long time. 
 The key factor in this project is to create an open source web application, which reads, in this particular case the portuguese law and policies, from 
 such websites, like (www.dre.pt).
-It will read and interpret, and creat texts  from the acquired information, wich anybody can understand, without losing its legal integrity. 
+It will read and interpret, and creat texts  from the acquired information, which anybody can understand, without losing its legal integrity. 
 This does not mean, that you will not be able to create one for other countries, if the interpreter is correctly built, there should be no issue on doing this.
 The meaning of open source in this project is anybody can contribute and work on it.
 There will be guidelines of course, to make everything more understandable for everybody.
