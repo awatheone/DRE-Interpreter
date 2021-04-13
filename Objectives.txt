@@ -1,1 +1,12 @@
+The objective of this, is a website where anybody can search for what they want, when it comes to the laws and policies of a certain country.
+And that this search presents DATA understandable to everybody, in practical terms, with practical examples.
+Right now, everybody has an idea of the law, but its very unclear.
+Lets say I want to start a company, but I have no idea about guidelines, policies etc. This APP is exactly for this kinds of issues.
+This is a tool of information, where people can inform themselves.
+
+//Example:
+If you go to a certain place, which has 'x' rules inside that place, but you have a very vague or unclear perception about them, you will cross lines sometimes without being aware of it. 
+I think lots of things happen in this way, because the big majority of the population, has just an idea of whats going on, but this website, will not solve this problem, only each person can, this website will only provide a tool, which will save everybody from tedious work.
+The main objective of this whole thing, it to provide a tool, in which anybody can inform himself, about his rights, what he is legally allowed to do, his duties...etc.
+
 
