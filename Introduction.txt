@@ -1,0 +1,28 @@
+ENG// 13/04/2021 
+
+This project comes from the necessity of a good law and policies interpretation.
+New laws and policies come up all the time, and are not exaclty understandable, between the average you & me, to be more precise, the you & me who have never studied or worked with
+anything related to law before.
+I have been feeling the need for a project like this to happen, for a long time. 
+The key factor in this project is to create an open source web application, which reads, in this particular case the portuguese law and policies, from 
+such websites, like (www.dre.pt).
+This does not mean, that you will not be able to create one for other countries, if the interpreter is correctly built, there should be no issue on doing this.
+The meaning of open source in this project is anybody can contribute and work on it.
+There will be guidelines of course, to make everything more understandable for everybody.
+But its essentially a web app built from the people to the people.
+
+
+PT// 13/04/2021 
+
+Este projeto surge da necessidade de uma boa interpretação das leis e politicas.
+Novas Leis e Politicas surgem a toda a hora, e não são exatamente "fáceis de entender", entre o comum tu & eu, para ser mais preciso, o tu & eu que nunca estudaram ou trabalharam
+com algo relacionado com a Lei antes disto.
+Tenho sentido a necessidade de um projeto destes realizar-se, há bastante tempo.
+O factor chave neste projeto, é criar uma web app open source, que lê, neste caso particular, as Leis e Politicas Portuguesas, como por exemplo a partir de
+sites como o (www.dre.pt).
+Isto não quer dizer, que não vais ser capaz de criar um para outros países, se o interpretador for bem construido, não deverá existir tal problema.
+O significado the open source neste projeto é que toda a gente pode contribuir para ele e trabalhar nele.
+Vão existir diretrizes claro, para tornar tudo mais fácil de entender por toda a gente.
+Mas é essencialmente uma web app construida pelo povo para o povo.
+
+
